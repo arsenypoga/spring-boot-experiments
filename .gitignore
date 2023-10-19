@@ -53,5 +53,5 @@ gradle-app.setting
 ### Gradle Patch ###
 # Java heap dump
 *.hprof
-
+bin/
 # End of https://www.toptal.com/developers/gitignore/api/java,gradle
